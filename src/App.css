@@ -1,0 +1,119 @@
+body,
+html {
+  margin: 0%;
+  padding: 0%;
+}
+.div1 {
+  width: 1440px;
+  height: 1024px;
+  padding: 24px 32px 24px 32px;
+  display: flex;
+  gap: 16px;
+  background: #ffffff;
+  justify-content: center;
+  align-items: center;
+  margin: 0%;
+}
+.div2 {
+  width: 320px;
+  height: 314px;
+  gap: 48px;
+  background: transparent;
+  margin: 0%;
+}
+.welcomeDiv {
+  width: 230px;
+  height: 38px;
+  margin: 0%;
+  margin-left: 50px;
+  padding: 0%;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+}
+.welcome {
+  margin: 0%;
+  padding: 0%;
+  background: transparent;
+  font-size: 30px;
+  line-height: 38px;
+  letter-spacing: 0%;
+  color: #232323;
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-optical-sizing: auto;
+  font-weight: 700;
+}
+.gap1 {
+  width: 320px;
+  height: 32px;
+  background: transparent;
+  margin: 0%;
+  padding: 0%;
+}
+.inputsDiv {
+  margin: 0%;
+  padding: 0%;
+  width: 320px;
+  height: 120px;
+  background: transparent;
+}
+.email {
+  width: 320px;
+  height: 48px;
+  background: transparent;
+  border-radius: 8px;
+  border: 1px solid #d6d6d6;
+  margin: 0%;
+  padding: 0%;
+}
+.email::placeholder {
+  color: #808080;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  text-indent: 8px;
+}
+.gap2 {
+  margin: 0%;
+  padding: 0%;
+  width: 320px;
+  height: 24px;
+  background: transparent;
+}
+.password {
+  width: 320px;
+  height: 48px;
+  border-radius: 8px;
+  border: 1px solid #d6d6d6;
+  background: transparent;
+  margin: 0%;
+  padding: 0%;
+}
+.password::placeholder {
+  color: #808080;
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  text-indent: 8px;
+  font-size: 16px;
+}
+.gap3 {
+  width: 320px;
+  height: 32px;
+  background: transparent;
+  margin: 0%;
+  padding: 0%;
+}
+.login {
+  color: white;
+  width: 320px;
+  height: 92px;
+  background: #2b3a67;
+  margin: 0%;
+  padding: 0%;
+  border: none;
+}
